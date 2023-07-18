@@ -6,7 +6,7 @@ Kelas : IK-2B
 
 NIM   : 3.34.21.1.04
 
-![alt text]([?raw=true](https://github.com/annisanikk03/stacy.iu/blob/master/Chapter28/onlineStore/public/img/HOME.png))
+![alt text](https://github.com/annisanikk03/stacy.iu/blob/master/Chapter28/onlineStore/public/img/HOME.png)
 
 Stacy.iu
 
